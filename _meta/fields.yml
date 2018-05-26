@@ -1,0 +1,9 @@
+- key: tcpbeat
+  title: tcpbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION

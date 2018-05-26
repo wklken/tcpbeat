@@ -1,0 +1,7 @@
+################### Tcpbeat Configuration Example #########################
+
+############################# Tcpbeat ######################################
+
+tcpbeat:
+  # Defines how often an event is sent to the output
+  period: 1s
